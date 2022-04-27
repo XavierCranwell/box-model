@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 10px;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+.box-one {
+    background-color: blue;
+    border: 20px solid crimson;
+    padding: 20px;
+    margin: 30px;
+}
+
+.box-two {
+    background-color: darkgreen;
+    border: 20px solid goldenrod;
+    padding: 20px;
+
+}
